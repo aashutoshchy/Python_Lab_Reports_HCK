@@ -1,0 +1,5 @@
+Name: Aashutosh
+Age: 19 
+Qualification: Plus 2 
+Hobby: Singing 
+Interest: Music
